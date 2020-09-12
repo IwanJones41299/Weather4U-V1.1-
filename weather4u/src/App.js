@@ -2,7 +2,7 @@ import React, { useState } from "react";
 const api = {
   key: "532545037cc7b5bd623fb262091e9651",
   // base: "http://api.openweathermap.org/data/2.5/forecast?id=524901&APPID=532545037cc7b5bd623fb262091e9651"
-  base: "http://api.openweathermap.org/data/2.5/",
+  base: "https://api.openweathermap.org/data/2.5/",
 };
 
 function App() {
